@@ -2,6 +2,7 @@ var PLAY = 1;
 var END = 0;
 var gameState = PLAY;
 
+var Image
 var trex, trex_running, trex_collided;
 var ground, invisibleGround, groundImage;
 
